@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Yuv","characterIndex":0,"characterName":"Yuv","classId":1,"equips":[44,27,0,3,0],"faceIndex":0,"faceName":"Yuv","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yuv","nickname":"Yuv the Saviour!","note":"","profile":""},
+{"id":2,"battlerName":"boss","characterIndex":0,"characterName":"boss","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"boss","traits":[],"initialLevel":1,"maxLevel":99,"name":"The Boss","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"People1","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Friend 1","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":3,"characterName":"People1","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Friend 2","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"hench man 1","characterIndex":0,"characterName":"hench man 1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"hench man 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Slizzers","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Max","characterIndex":0,"characterName":"Evil","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Max","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
